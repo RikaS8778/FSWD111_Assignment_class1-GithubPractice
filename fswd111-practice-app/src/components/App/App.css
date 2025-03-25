@@ -23,6 +23,7 @@
 
 .navTab {
   background-color: rgb(170, 255, 223);
+  margin-bottom: 30px;
 }
 
 .App-header {
@@ -33,7 +34,6 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
 }
 
 .footer {

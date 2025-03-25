@@ -2,8 +2,9 @@ import './Home.css';
 
 const Home = () => {
     return (
-        <div>
-            hello from home
+        <div className='Home'>
+            <h1>WELCOME🦩🦩🦩</h1>
+            <p>This is for practicing usage of git commands.</p>
         </div>
     )
 }

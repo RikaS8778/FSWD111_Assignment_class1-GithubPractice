@@ -11,4 +11,4 @@ Branching\
 Merging\
 PR's\
 Feature branches\
-Main & Staging branches\
+Main & Staging branches
